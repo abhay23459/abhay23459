@@ -48,9 +48,5 @@ A React-based developer learning and collaboration platform with authentication,
 - Apna College — Web Development
 - NPTEL — Software Design
 
-### 🔥 Contribution activity
 
-The contribution SVG is generated from GitHub's public contribution calendar without a personal access token. GitHub Actions refreshes it daily.
-
-> **Note:** GitHub profile READMEs sanitize JavaScript and most inline CSS, so the animations live inside the SVG files themselves.
 
