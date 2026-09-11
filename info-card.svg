@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="650" height="660" viewBox="0 0 650 660">
+<rect width="650" height="660" rx="16" fill="#0d1117" stroke="#30363d"/>
+<rect x="0" y="0" width="650" height="48" rx="16" fill="#161b22"/>
+<circle cx="24" cy="24" r="7" fill="#ff5f56"/><circle cx="47" cy="24" r="7" fill="#ffbd2e"/><circle cx="70" cy="24" r="7" fill="#27c93f"/>
+<text x="95" y="30" fill="#8b949e" font-family="monospace" font-size="16">abhay@github ~ $ neofetch</text>
+
+<g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="18">
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".35s" begin=".2s" fill="freeze"/>
+<text x="30" y="90" fill="#39d353" font-size="28">ABHAY23459</text>
+<text x="30" y="118" fill="#8b949e">──────────────────────────────</text></g>
+
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".35s" begin=".55s" fill="freeze"/>
+<text x="30" y="155" fill="#58a6ff">Role</text><text x="180" y="155" fill="#c9d1d9">Frontend Web Developer</text>
+<text x="30" y="188" fill="#58a6ff">Education</text><text x="180" y="188" fill="#c9d1d9">B.Tech CSE</text>
+<text x="30" y="221" fill="#58a6ff">Stack</text><text x="180" y="221" fill="#c9d1d9">React • Java • Python</text>
+<text x="30" y="254" fill="#58a6ff">Tools</text><text x="180" y="254" fill="#c9d1d9">Git • GitHub • VS Code</text></g>
+
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".35s" begin=".9s" fill="freeze"/>
+<text x="30" y="305" fill="#39d353">Projects</text>
+<text x="30" y="338" fill="#c9d1d9">• Developer Adda</text>
+<text x="30" y="371" fill="#8b949e">  Community platform for Tier 2/3 college students</text>
+<text x="30" y="414" fill="#c9d1d9">• Portfolio Website</text>
+<text x="30" y="447" fill="#8b949e">  Responsive personal web portfolio</text></g>
+
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".35s" begin="1.25s" fill="freeze"/>
+<text x="30" y="500" fill="#39d353">Focus</text>
+<text x="30" y="533" fill="#c9d1d9">Frontend • DSA • Problem Solving</text>
+<text x="30" y="566" fill="#c9d1d9">Building projects • Learning every day</text>
+<text x="30" y="615" fill="#8b949e">github.com/abhay23459</text></g>
+</g></svg>
